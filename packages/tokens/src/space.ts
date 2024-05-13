@@ -8,10 +8,12 @@ export const space = {
   7: '1.75rem',
   8: '2rem',
   10: '2.5rem',
+  11: '2.75rem',
   12: '3rem',
   16: '4rem',
   20: '5rem',
   40: '10rem',
+  50: '13.5rem',
   64: '16rem',
   80: '20rem',
 }
